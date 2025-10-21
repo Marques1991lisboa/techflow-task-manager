@@ -40,5 +40,5 @@ O sistema foi construído utilizando **metodologias ágeis** (Scrum/Kanban) e bo
 
 ---
 
-## 📂 Estrutura do Repositório
+
 
