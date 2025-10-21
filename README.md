@@ -53,4 +53,31 @@ O sistema foi construído utilizando **metodologias ágeis** (Scrum/Kanban) e bo
 └── 📄 LICENSE            # Licença do projeto
 
 
+//////////////////////////////////////////////////////////////////////////////////
+
+Atenção teremos uma atualização a pedido do cliente e mudaremos o projeto 
+
+📢 Atualização no Sistema de Gerenciamento de Tarefas: Adição de Data de Vencimento
+Olá, equipe!
+Para atender à necessidade do nosso cliente de melhorar a gestão de prazos e tornar o acompanhamento das tarefas ainda mais eficiente, implementamos uma nova funcionalidade: o campo "Data de Vencimento" (due_date) em todas as tarefas.
+Por que essa mudança?
+O cliente, uma startup de logística, precisava de uma forma mais clara para priorizar tarefas críticas e evitar atrasos. Com a data de vencimento, agora é possível:
+✅ Visualizar prazos de entrega.
+✅ Filtrar tarefas por urgência.
+✅ Melhorar a organização do fluxo de trabalho.
+O que mudou no sistema?
+
+Novo campo: due_date (formato: DD/MM/AAAA).
+Atualizações no backend: O modelo de tarefas e as rotas foram ajustados para suportar a nova informação.
+Testes: Todos os scripts foram atualizados para garantir que a funcionalidade está 100% operacional.
+
+Próximos passos
+
+Testem a nova funcionalidade e nos deem feedback!
+Atualizem as tarefas existentes com as datas de vencimento.
+Qualquer dúvida, estamos à disposição.
+
+Agradecemos a colaboração de todos! 🚀
+
+
 
