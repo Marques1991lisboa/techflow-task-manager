@@ -40,5 +40,17 @@ O sistema foi construído utilizando **metodologias ágeis** (Scrum/Kanban) e bo
 
 ---
 
+## 📂 Estrutura do Repositório
+
+📦 /projeto
+├── 📂 /docs              # Documentação técnica
+├── 📂 /src               # Código-fonte
+│   ├── 📂 /backend       # Lógica do servidor
+│   ├── 📂 /frontend      # Interface do usuário
+│   └── 📂 /tests         # Testes automatizados
+├── 📄 .github/workflows  # Configurações de CI/CD
+├── 📄 README.md          # Este arquivo
+└── 📄 LICENSE            # Licença do projeto
+
 
 
